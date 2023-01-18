@@ -11,7 +11,7 @@ namespace CompanyManagement
             List<Employees> employees1 = new List<Employees>
             {
                 new Employees{Id=1,Name="Mehmet",LastName="Aslan",TelNo=22222,Email="mehmet@gmail.com",UnitId=5,Wage=5000,Unit="Yönetici"},
-                new Employees{Id=2,Name="Zülküf",LastName="Demir",TelNo=22222,Email="demir@gmail.com",UnitId=5,Wage=6000,Unit="Müdür"},
+                new Employees{Id=2,Name="Zülküf",LastName="Demir",TelNo=22222,Email="demir@gmail.com",UnitId=5,Wage=6000,Unit="Müdür "},
                 new Employees{Id=3,Name="ayşe",LastName="Kaplan",TelNo=22222,Email="mehmet@gmail.com",UnitId=5,Wage=2000,Unit="Sekreter"},
 
 
